@@ -1,8 +1,7 @@
 # My Projects Portfolio
 
-Welcome to my portfolio! Here, I showcase my key projects, detailing the skills I applied, the methods I used, and the technical details behind each project. Explore my work to see my expertise in action!
+Welcome to my project's portfolio! Here, I showcase my key projects, detailing the skills I applied, the methods I used, and the technical details behind each project. This page is under development, so only some projects are shown here. I am working to include all my projects with more detailed descriptions.
 
-# Projects Portfolio
 
 ## 3D Vertical Lift Bridge Simulator
 An interactive 3D simulation of a vertical lift bridge system built with C++ and OpenGL.
